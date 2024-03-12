@@ -1,1 +1,3 @@
-Exercises for practice mainly made using JavaScript.
+#HACKER RANK
+
+## Exercises for practice mainly made using JavaScript.
